@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Martín G</title>
-    <link>https://jgarcida.github.io/blog-site/</link>
+    <link>https://jgarcida.github.io/blog-site2/./</link>
     <description>Recent content on J. Martín G</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 05 Mar 2018 15:56:49 -0600</lastBuildDate>
     
-	<atom:link href="https://jgarcida.github.io/blog-site/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jgarcida.github.io/blog-site2/./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://jgarcida.github.io/blog-site/blog/my-first-post/</link>
+      <link>https://jgarcida.github.io/blog-site2/./blog/my-first-post/</link>
       <pubDate>Mon, 05 Mar 2018 15:56:49 -0600</pubDate>
       
-      <guid>https://jgarcida.github.io/blog-site/blog/my-first-post/</guid>
+      <guid>https://jgarcida.github.io/blog-site2/./blog/my-first-post/</guid>
       <description>Introduction Hola, MI nombre es Martin y este es mi primer post.
 Tratare de explicar que es lo que estoy viviendo y experimentando al escribir este post.
 Llevo un tiempo en el desarrollo de sistemas y en este lapso de tiempo se me olvido el capacitarme constantemente. Un dia me doy cuenta que tecnologicamente hablando me encuentro resagado y mis competencias tecnicas me delatan. Se me olvido que el desarrollar sistemas es como un deporte en el cual tienes que practicar constantemente para mejorar.</description>
